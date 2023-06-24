@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif" width="480" height="360" frameBorder="0"/>
+  <img src="https://media.giphy.com/media/zPfcyMT5MG8hjTrnkm/giphy.gif" frameBorder="0"/>
 </div>
 
 
@@ -42,9 +42,16 @@ I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: text.
 
-- :mailbox:How to reach me:
+- :mailbox:How to reach me: <a href="https://t.me/chtogdesofiko "> Telegram </a>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+  
