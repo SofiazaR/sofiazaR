@@ -35,13 +35,10 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: text.
-
-- :seedling: text.
-
-- :zap: text.
-
+I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: 
+- :seedling: 
+- :zap:
 - :mailbox:How to reach me: <a href="https://t.me/chtogdesofiko "> Telegram </a>
 
 ---
@@ -54,4 +51,10 @@ I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofiazar&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
   
