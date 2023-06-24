@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ekebkJkXk7HfmFDr5r/giphy.gif" width="480" height="480" frameBorder="0"/>
+  <img src="https://media.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif" width="480" height="360" frameBorder="0"/>
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://vk.com/chto_gde_sofiko">
@@ -30,3 +31,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/resume-orange?logo=notion&logoColor=white" alt="Notion Badge"/>
   </a>
 </div>
+
+---
+
+### :woman_technologist: About Me :
+I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: text.
+
+- :seedling: text.
+
+- :zap: text.
+
+- :mailbox:How to reach me:
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
