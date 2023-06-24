@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe src="https://giphy.com/embed/ekebkJkXk7HfmFDr5r" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LINEFRIENDS-cute-bt21-bt21baby-ekebkJkXk7HfmFDr5r">via GIPHY</a></p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ekebkJkXk7HfmFDr5r/giphy.gif" width="480" height="480" frameBorder="0"/>
+</div>
