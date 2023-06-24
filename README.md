@@ -62,9 +62,9 @@ I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 </div>
 
 ---
-
+<!-- BLOG-POST-LIST:START -->
 ### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
+
 
 <!-- BLOG-POST-LIST:END -->
