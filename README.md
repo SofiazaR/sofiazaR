@@ -1,12 +1,14 @@
-<h1> Hi, I'm Sofia</h1>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SRG1Vk92HgTfP3F6gH/giphy.gif"  /> 
-   <img src="https://media.giphy.com/media/SRG1Vk92HgTfP3F6gH/giphy.gif"  /> 
+# Hi 🌎, I'm Sofia. UX/UI Designer
+<div id="header" >
+  <img src="https://media.giphy.com/media/n4FpwV0JxhYjtBjn4U/giphy.gif"  /> 
 </div>
 
-<div id="badges" align="center">
+
+### Connect with me:
+
+<div id="badges">
   <a href="https://vk.com/chto_gde_sofiko">
   <img src="https://img.shields.io/badge/sofiana-blue?logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
@@ -16,16 +18,8 @@
   <a href="https://www.notion.so/sofianarazuvalova/334c8962183a4be2b5ff3cffe4f75130">
   <img src="https://img.shields.io/badge/resume-orange?logo=notion&logoColor=white" alt="Notion Badge"/>
   </a>
+  
 </div>
-
-
-### :woman_technologist: About Me :
-I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: 
-- :seedling: 
-- :zap:
-- :mailbox:How to reach me: <a href="https://t.me/chtogdesofiko "> Telegram </a>
-
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -40,7 +34,7 @@ I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 
 ### :fire: My Stats :
-<div align="center">
+<div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofiazar&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
