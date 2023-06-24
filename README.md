@@ -1,24 +1,10 @@
-### Hi, I'm Sofia
+<h1> Hi, I'm Sofia</h1>
 
-<!--
-**SofiazaR/sofiazaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zPfcyMT5MG8hjTrnkm/giphy.gif" frameBorder="0"/>
+  <img src="https://media.giphy.com/media/SRG1Vk92HgTfP3F6gH/giphy.gif"  /> 
+   <img src="https://media.giphy.com/media/SRG1Vk92HgTfP3F6gH/giphy.gif"  /> 
 </div>
-
 
 <div id="badges" align="center">
   <a href="https://vk.com/chto_gde_sofiko">
@@ -32,7 +18,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
----
 
 ### :woman_technologist: About Me :
 I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -41,7 +26,7 @@ I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :zap:
 - :mailbox:How to reach me: <a href="https://t.me/chtogdesofiko "> Telegram </a>
 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -52,7 +37,7 @@ I am UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
----
+
 
 ### :fire: My Stats :
 <div align="center">
