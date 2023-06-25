@@ -9,16 +9,12 @@
 ### Connect with me:
 
 <div id="badges">
-  <a href="https://vk.com/chto_gde_sofiko">
-  <img src="https://img.shields.io/badge/sofiana-blue?logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCywtGiBS9mvjGbkAhUSmhIw">
-  <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://www.notion.so/sofianarazuvalova/334c8962183a4be2b5ff3cffe4f75130">
   <img src="https://img.shields.io/badge/resume-orange?logo=notion&logoColor=white" alt="Notion Badge"/>
   </a>
-  
+   <a href="https://telegram.me/chtogdesofiko">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
 
