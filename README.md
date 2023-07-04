@@ -9,7 +9,7 @@
 ### Connect with me:
 
 <div id="badges">
-  <a href="https://www.notion.so/sofianarazuvalova/334c8962183a4be2b5ff3cffe4f75130">
+  <a href="https://sofianarazuvalova.super.site">
   <img src="https://img.shields.io/badge/resume-orange?logo=notion&logoColor=white" alt="Notion Badge"/>
   </a>
    <a href="https://telegram.me/chtogdesofiko">
