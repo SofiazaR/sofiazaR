@@ -1,6 +1,6 @@
 
 
-# Hi 🌎, I'm Sofia. UX/UI Designer
+# Hi 🌎, I'm Sofia.
 <div id="header" >
   <img src="https://media.giphy.com/media/n4FpwV0JxhYjtBjn4U/giphy.gif"  /> 
 </div>
