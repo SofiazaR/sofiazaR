@@ -36,3 +36,7 @@
 
 </div>
 
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@razuvalovasofa26968/30-nites-of-code)  
+  ![@razuvalovasofa26968 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=razuvalovasofa26968)
