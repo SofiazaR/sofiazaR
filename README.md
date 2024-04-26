@@ -35,8 +35,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofiazar&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 </div>
-
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@razuvalovasofa26968/30-nites-of-code)  
-  ![@razuvalovasofa26968 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=razuvalovasofa26968)
