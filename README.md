@@ -1,16 +1,15 @@
 
 
-# Hi 🌎, I'm Sofia.
+# Hi 🌎, I'm Sofia. Product Designer 🌱
 <div id="header" >
-  <img src="https://media.giphy.com/media/n4FpwV0JxhYjtBjn4U/giphy.gif"  /> 
+  <img src="https://media.giphy.com/media/n4FpwV0JxhYjtBjn4U/giphy.gif"  />
 </div>
 
-
-### Connect with me:
+### :postbox: Connect with me:
 
 <div id="badges">
   <a href="https://sofianarazuvalova.super.site">
-  <img src="https://img.shields.io/badge/resume-orange?logo=notion&logoColor=white" alt="Notion Badge"/>
+  <img src="https://img.shields.io/badge/Resume-orange?logo=notion&logoColor=white" alt="Notion Badge"/>
   </a>
    <a href="https://telegram.me/chtogdesofiko">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
