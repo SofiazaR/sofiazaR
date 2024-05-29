@@ -11,7 +11,7 @@
   <a href="https://sofianarazuvalova.super.site">
   <img src="https://img.shields.io/badge/Resume-orange?logo=notion&logoColor=white" alt="Notion Badge"/>
   </a>
-   <a href="https://telegram.me/chtogdesofiko">
+   <a href="https://t.me/sofiarazuvalova">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
